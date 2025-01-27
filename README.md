@@ -8,7 +8,7 @@ For instance, given some uniform p-values:
 
 ```Python
 import numpy as np 
-from qvalue import qvalue, pi0est, plot_qvalue
+from qvalue.qvalue import qvalue, pi0est, plot_qvalue
 
 pv = np.random.uniform(0.0, 1.0, size = (1000,))
 ```

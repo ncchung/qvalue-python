@@ -36,6 +36,13 @@ Visualize the q-value and p-values with:
 plot_qvalue(qv,pv)
 ```
 
+## Installation
+
+Install this repo:
+```
+pip install --upgrade https://github.com/ncchung/qvalue-python/tarball/master
+```
+
 ## References
 
 Storey, J. D., & Tibshirani, R. (2003). Statistical significance for genomewide studies. Proceedings of the National Academy of Sciences, 100(16), 9440-9445.
